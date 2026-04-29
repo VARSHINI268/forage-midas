@@ -13,3 +13,7 @@ spring:
       properties:
         spring.json.trusted.packages: com.jpmc.midascore.foundation
         spring.json.value.default.type: com.jpmc.midascore.foundation.Transaction
+
+incentive:
+  api:
+    url: http://localhost:8080/incentive
